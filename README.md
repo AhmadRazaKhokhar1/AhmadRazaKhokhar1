@@ -3,7 +3,8 @@ Ahmad Raza Khokhar is Full Stack Engineer specially in MERN and also has grip on
 
 Programming Languages :
  ![image](https://github.com/AhmadRazaKhokhar1/AhmadRazaKhokhar1/assets/137413638/92a180d0-22b0-424b-8fbb-fa6a66c833bd) ![image](https://github.com/AhmadRazaKhokhar1/AhmadRazaKhokhar1/assets/137413638/ea62f58e-c94d-44d7-aae7-06a0927dec9d) ![image](https://github.com/AhmadRazaKhokhar1/AhmadRazaKhokhar1/assets/137413638/9aaf88cc-ec57-45b3-b366-de71b8f47083) 
-![Uploading image.png…]()
+![image](https://github.com/AhmadRazaKhokhar1/AhmadRazaKhokhar1/assets/137413638/5a04b170-ffcf-4218-8482-207c9f38c705)
+
 
 ![image](https://github.com/AhmadRazaKhokhar1/AhmadRazaKhokhar1/assets/137413638/aae9a65b-2280-4de5-8a75-4f7ce0dbc32c)
 
