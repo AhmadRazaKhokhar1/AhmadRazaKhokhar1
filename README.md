@@ -12,6 +12,10 @@ Programming Languages :
 <img src='https://github.com/AhmadRazaKhokhar1/AhmadRazaKhokhar1/assets/137413638/3f3667ab-f9af-48be-b176-23783b5bd5c5' alt='mui' width='80' height='80'/>
 
 
+Analysis :
+<img alt="Scrutinizer coverage (GitLab)" src="https://img.shields.io/scrutinizer/quality/gl/'https%3A%2F%2Fgithub.com%2FAhmadRazaKhokhar1%2FFacebook-Clone-Ahmad-Raza-Khokhar'/'https%3A%2F%2Fgithub.com%2FAhmadRazaKhokhar1%2FFacebook-Clone-Ahmad-Raza-Khokhar'/'https%3A%2F%2Fgithub.com%2FAhmadRazaKhokhar1%2FFacebook-Clone-Ahmad-Raza-Khokhar'/'main'">
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
