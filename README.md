@@ -6,9 +6,9 @@ Programming Languages :
 ![image](https://github.com/AhmadRazaKhokhar1/AhmadRazaKhokhar1/assets/137413638/aae9a65b-2280-4de5-8a75-4f7ce0dbc32c)
 ![image](https://github.com/AhmadRazaKhokhar1/AhmadRazaKhokhar1/assets/137413638/f7a1dfb2-daa4-4053-9f5b-d9b70b4646fd)
 ![image](https://github.com/AhmadRazaKhokhar1/AhmadRazaKhokhar1/assets/137413638/eb968d8f-0d41-43ca-ae79-6d6564ff0740)
-<img src='https://github.com/AhmadRazaKhokhar1/AhmadRazaKhokhar1/assets/137413638/3f3667ab-f9af-48be-b176-23783b5bd5c5' alt='mui' width='200' height='200'/>
-<img src='https://github.com/AhmadRazaKhokhar1/AhmadRazaKhokhar1/assets/137413638/3f3667ab-f9af-48be-b176-23783b5bd5c5' alt='mui' width='200' height='200'/>
-<img src='https://github.com/AhmadRazaKhokhar1/AhmadRazaKhokhar1/assets/137413638/3f3667ab-f9af-48be-b176-23783b5bd5c5' alt='mui' width='200' height='200'/>
+<img src='https://github.com/AhmadRazaKhokhar1/AhmadRazaKhokhar1/assets/137413638/3f3667ab-f9af-48be-b176-23783b5bd5c5' alt='mui' width='100' height='100'/>
+<img src='https://github.com/AhmadRazaKhokhar1/AhmadRazaKhokhar1/assets/137413638/3f3667ab-f9af-48be-b176-23783b5bd5c5' alt='mui' width='100' height='100'/>
+<img src='https://github.com/AhmadRazaKhokhar1/AhmadRazaKhokhar1/assets/137413638/3f3667ab-f9af-48be-b176-23783b5bd5c5' alt='mui' width='100' height='100'/>
 
 
 
