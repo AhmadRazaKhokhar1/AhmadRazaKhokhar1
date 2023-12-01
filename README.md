@@ -2,7 +2,7 @@
 Ahmad Raza Khokhar is Full Stack Engineer specially in MERN and also has grip on various Controll Management Systems such as WordPress, Wix, etc.
 
 Programming Languages :
-- ![image](https://github.com/AhmadRazaKhokhar1/AhmadRazaKhokhar1/assets/137413638/8dba16f8-5235-40ed-a2cc-4c572c735f3c)
+- ![image](https://github.com/AhmadRazaKhokhar1/AhmadRazaKhokhar1/assets/137413638/92a180d0-22b0-424b-8fbb-fa6a66c833bd)
 
 
 - 🔭 I’m currently working on ...
