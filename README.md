@@ -1,9 +1,9 @@
 ### Hi there 👋
+Ahmad Raza Khokhar is Full Stack Engineer specially in MERN and also has grip on various Controll Management Systems such as WordPress, Wix, etc.
 
-<!--
-**AhmadRazaKhokhar1/AhmadRazaKhokhar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Programming Languages :
+- ![image](https://github.com/AhmadRazaKhokhar1/AhmadRazaKhokhar1/assets/137413638/8dba16f8-5235-40ed-a2cc-4c572c735f3c)
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
