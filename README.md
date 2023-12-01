@@ -7,7 +7,7 @@ Programming Languages :
 ![image](https://github.com/AhmadRazaKhokhar1/AhmadRazaKhokhar1/assets/137413638/f7a1dfb2-daa4-4053-9f5b-d9b70b4646fd)
 ![image](https://github.com/AhmadRazaKhokhar1/AhmadRazaKhokhar1/assets/137413638/eb968d8f-0d41-43ca-ae79-6d6564ff0740)
 ![image](https://github.com/AhmadRazaKhokhar1/AhmadRazaKhokhar1/assets/137413638/3f3667ab-f9af-48be-b176-23783b5bd5c5)
-![image](https://github.com/AhmadRazaKhokhar1/AhmadRazaKhokhar1/assets/137413638/8338a4a4-092c-4191-94b4-d43816de5026)
+![image](https://github.com/AhmadRazaKhokhar1/AhmadRazaKhokhar1/assets/137413638/b2eb4fb7-daa0-445b-af5a-dcfebb88842c)
 
 
 
