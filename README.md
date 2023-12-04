@@ -89,6 +89,9 @@ Ready to elevate your online presence? Whether it's a MERN website, a Chrome Ext
 <a href='https://www.fiverr.com/ahmadraza553?source=gig_page&gigs=slug%3Areactify-an-interactive-webapp-as-a-react-frontend-wizard%2Cpckg_id%3A1'>
 <img src='https://ibb.co/h2rXNtr' width='220 height='220'/>
 </a> | <a href='https://www.upwork.com/freelancers/~013b54b8f50b9b87cc'>
-<img src='https://ibb.co/h2rXNtrhttps://ibb.co/D1mdR1B' width='220 height='220'/>
+<img src='https://i.ibb.co/frZ8WPZ/ahmad-raza-khokhar-fiverr-account-link-image.png" alt="ahmad-raza-khokhar-fiverr-account-link-image' width='220 height='220'/>
 </a>
+
+
+
 
