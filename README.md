@@ -87,9 +87,9 @@ Let's Get Started:
 Ready to elevate your online presence? Whether it's a MERN website, a Chrome Extension, or a WordPress project, I'm here to turn your vision into reality. Let's discuss your project requirements and take the first step towards success.
 
 <a href='https://www.fiverr.com/ahmadraza553?source=gig_page&gigs=slug%3Areactify-an-interactive-webapp-as-a-react-frontend-wizard%2Cpckg_id%3A1'>
-<img src='https://i.ibb.co/MgKdCgz/ahmad-raza-khokhar-upwork-account-link-image.png" alt="ahmad-raza-khokhar-upwork-account-link-image' width='150' height='150'/>
+<img src='https://i.ibb.co/MgKdCgz/ahmad-raza-khokhar-upwork-account-link-image.png" alt="ahmad-raza-khokhar-upwork-account-link-image' width='60' height='60'/>
 </a> | <a href='https://www.upwork.com/freelancers/~013b54b8f50b9b87cc'>
-<img src='https://i.ibb.co/frZ8WPZ/ahmad-raza-khokhar-fiverr-account-link-image.png" alt="ahmad-raza-khokhar-fiverr-account-link-image' width='150 height='150'/>
+<img src='https://i.ibb.co/frZ8WPZ/ahmad-raza-khokhar-fiverr-account-link-image.png" alt="ahmad-raza-khokhar-fiverr-account-link-image' width='70 height='60'/>
 </a>
 
 
