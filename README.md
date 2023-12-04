@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmad Raza Khohar</h1>
+<h1 align="center">Hi 👋, I'm Ahmad Raza Khokhar</h1>
 <h3 align="center">A passionate Full Stack Developer. I am expert in MERN, WordPress and Static Websites development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadrazakhokhar1&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadrazakhokhar1" /> </p>
@@ -44,3 +44,51 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadrazakhokhar1&show_icons=true&locale=en" alt="ahmadrazakhokhar1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadrazakhokhar1&" alt="ahmadrazakhokhar1" /></p>
+
+<h3 align="left">Ahmad Raza Khokhar's Key Features:</h3>
+
+💻 MERN & Wordpress Developer: Specializing in both MERN (MongoDB, Express.js, React, Node.js) stack and Wordpress development.
+
+🚀 Full-Stack Proficiency: Crafting end-to-end solutions for seamless integration and optimal performance.
+
+🎨 Creative UI/UX Optimization: Dedicated to enhancing user interfaces and experiences for visually appealing and user-friendly websites.
+
+🌟 Innovative Solutions: Passionate about finding creative and efficient solutions to complex development challenges.
+
+💡 Code Expertise: Bringing a unique blend of creativity and technical proficiency to every project, ensuring top-notch coding standards.
+
+🌐 Digital Vision Transformation: Committed to translating your digital vision into reality through innovative development techniques and practices.
+
+<h3 align="left">Ahmad Raza Khokhar's Services:</h3>
+<b>🚀 MERN Website Development:</b>
+
+Leverage the power of MERN stack for robust and scalable web applications.
+Seamless integration of MongoDB, Express.js, React.js, and Node.js for a full-stack experience.
+Modern, responsive, and user-friendly designs tailored to your specific needs.
+
+<b>🛠️ Chrome Extension Development:</b>
+
+Enhance your browser experience with custom Chrome Extensions.
+Crafted to meet your unique requirements for productivity, functionality, and user engagement.
+Reliable, secure, and seamlessly integrated into the Chrome browser.
+
+<b>🌐 WordPress Services:</b>
+
+Unlock the potential of WordPress with personalized themes and plugins.
+Customized solutions for businesses, blogs, e-commerce, and more.
+Optimize performance, security, and user experience for your WordPress site.
+
+<b>Why Choose Me:</b>
+
+Proven track record of successful projects on Fiverr and Upwork.
+Attention to detail and commitment to delivering projects on time.
+Transparent communication and collaboration throughout the development process.
+Let's Get Started:
+Ready to elevate your online presence? Whether it's a MERN website, a Chrome Extension, or a WordPress project, I'm here to turn your vision into reality. Let's discuss your project requirements and take the first step towards success.
+
+<a href='https://www.fiverr.com/ahmadraza553?source=gig_page&gigs=slug%3Areactify-an-interactive-webapp-as-a-react-frontend-wizard%2Cpckg_id%3A1'>
+<img src='https://drive.google.com/file/d/1oPPnIZBwkXQSPKmx0fyGTEdGX6kkfOAo/view?usp=drive_link' width='220 height='220'/>
+</a> | <a href='https://www.upwork.com/freelancers/~013b54b8f50b9b87cc'>
+<img src='https://drive.google.com/file/d/1Mi4HiZ4NER04Qtx9-FeQdivBcYJ_GgoW/view?usp=drive_link' width='220 height='220'/>
+</a>
+
