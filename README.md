@@ -87,8 +87,8 @@ Let's Get Started:
 Ready to elevate your online presence? Whether it's a MERN website, a Chrome Extension, or a WordPress project, I'm here to turn your vision into reality. Let's discuss your project requirements and take the first step towards success.
 
 <a href='https://www.fiverr.com/ahmadraza553?source=gig_page&gigs=slug%3Areactify-an-interactive-webapp-as-a-react-frontend-wizard%2Cpckg_id%3A1'>
-<img src='https://drive.google.com/file/d/1oPPnIZBwkXQSPKmx0fyGTEdGX6kkfOAo/view?usp=drive_link' width='220 height='220'/>
+<img src='https://ibb.co/h2rXNtr' width='220 height='220'/>
 </a> | <a href='https://www.upwork.com/freelancers/~013b54b8f50b9b87cc'>
-<img src='https://drive.google.com/file/d/1Mi4HiZ4NER04Qtx9-FeQdivBcYJ_GgoW/view?usp=drive_link' width='220 height='220'/>
+<img src='https://ibb.co/h2rXNtrhttps://ibb.co/D1mdR1B' width='220 height='220'/>
 </a>
 
