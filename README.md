@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/AhmadRazaKhokhar1?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=ahmadrazakhokhar1" alt="ahmadrazakhokhar1" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mr_ahmad_70" target="blank"><img src="https://img.shields.io/twitter/follow/mr_ahmad_70?logo=twitter&style=for-the-badge" alt="mr_ahmad_70" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/ahmad-raza-/" target="blank">Ahmad Raza Khokhar &nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ahmad Raza Khokhar" width=20 height=20/></a> </p>
 
 - 🌱 I’m currently learning **Blockchain and React Native**
 
