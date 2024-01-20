@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Raza Khokhar</h1>
-<h3 align="center">A passionate Full Stack Developer, an expert in MERN, WordPress and Static Websites development.</h3>
+<h3 align="center">A passionate Full Stack Developer, an expert in MERN, WordPress and Static and Dynamic Websites development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadrazakhokhar1&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadrazakhokhar1" /> </p>
 
