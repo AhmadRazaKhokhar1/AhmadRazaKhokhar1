@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Raza Khokhar</h1>
-<h3 align="center">A passionate Full Stack Developer. I am expert in MERN Webapps development.</h3>
+<h3 align="center">A passionate Full Stack WEB | MOBILE | CHROME EXTENSION Developer.</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadrazakhokhar1" alt="ahmadrazakhokhar1" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mr_ahmad_70" target="blank"><img src="https://img.shields.io/twitter/follow/mr_ahmad_70?logo=twitter&style=for-the-badge" alt="mr_ahmad_70" /></a> </p>
