@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ahmad Raza Khokhar</h1>
-<h3 align="center">A passionate Full Stack WEB | MOBILE | CHROME EXTENSION Developer.</h3>
+<h3 align="center">A passionate Full Stack WEB | MOBILE | CHROME EXTENSION Developer. Software Engineer @ Ninjas Code | React & Next JS | Node, Express & Nest JS | React Native | JavaScript & Typescript Expert | Mongo DB | Firebase | GraphQL</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadrazakhokhar1" alt="ahmadrazakhokhar1" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mr_ahmad_70" target="blank"><img src="https://img.shields.io/twitter/follow/mr_ahmad_70?logo=twitter&style=for-the-badge" alt="mr_ahmad_70" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain and React Native**
+- 🌱 I’m currently learning **Blockchain, Nest JS and React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AhmadRazaKhokhar1](https://github.com/AhmadRazaKhokhar1)
 
-- 💬 Ask me about **You can ask me for Website and Webapp development**
+- 💬 Ask me about **You can ask me for Website, Mobile App and Webapp development**
 
-- 📫 How to reach me **email: ahmadrazawebexpert@gmail.com phone: +923008039275**
+- 📫 How to reach me **email: ahmadrazawebexpert@gmail.com whatsapp: +923008039275 phone:+923**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ahmad-raza-/](https://www.linkedin.com/in/ahmad-raza-/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/ahmad-raza-khokhar/](https://www.linkedin.com/in/ahmad-raza-khokhar/)
 
 - ⚡ Fun fact **JavaScript is my love**
 
