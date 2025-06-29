@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **You can ask me for Website, Mobile App and Webapp development**
 
-- 📫 How to reach me **email: ahmadrazawebexpert@gmail.com whatsapp: +923008039275 phone:+923**
+- 📫 How to reach me **email: ahmadrazawebexpert@gmail.com whatsapp/phone: +923144240550
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ahmad-raza-khokhar/](https://www.linkedin.com/in/ahmad-raza-khokhar/)
 
